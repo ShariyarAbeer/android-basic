@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Demo</string>
+    <string name="ButtonText">Button</string>
+    <string name="ToastButton">Toast</string>
+    <string name="editTextButton">Edit Text</string>
+    <string name="showText">Show Text</string>
+    <string name="typeText">Type Text</string>
+    <string name="clickButton">Clicked</string>
+    <string name="textView">Text View</string>
+    <string name="TextView">Show Text Hello</string>
+    <string name="snackBar">Snack Bar</string>
+    <string name="progressBar">Progress Bar</string>
+    <string name="progressBarOn">Progress Bar ON</string>
+    <string name="progressBarOff">Progress Bar OFF</string>
+    <string name="alertButton">Alert Button</string>
+    <string name="radioButtonOne">Num 1</string>
+    <string name="radioButtonTwo">Num 2</string>
+    <string name="checkBox">Check Box</string>
+    <string name="switchClick">Switch Click</string>
+    <string name="listViewButton">List View</string>
+    <string name="webView">Web View</string>
+
+    
+    <!--    mySpinner array list items-->
+    <string-array name="mySpinnerArray">
+        <item>Bangladesh</item>
+        <item>India</item>
+        <item>Japan</item>
+        <item>USA</item>
+        <item>UK</item>
+    </string-array>
+
+
+</resources>
